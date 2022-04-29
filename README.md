@@ -44,7 +44,7 @@
 ---
 
 [facebook]: https://www.facebook.com/h.dung191003
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangdung1910&theme=tokyonight)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangdung1910&theme=tokyonight)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangdung1910&show_icons=true&theme=tokyonight)
 
