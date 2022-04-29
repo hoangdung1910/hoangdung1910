@@ -1,9 +1,10 @@
 # Hi there, I'm (づ.｡◕‿‿◕｡)づ - aka [Meow][facebook] 👋 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=F77FD0&center=true&lines=Welcome+to+Meow+profile!+)](https://git.io/typing-svg)
+
 <a href="https://twitter.com/hdung191003"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ho%C3%A0ng-d%C5%A9ng-1223b6236/"><img src="https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://fb.com/h.dung191003"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/m.dung19102003/"><img src="https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
 
 
 ## I'm a Student, and Developer!!
@@ -43,6 +44,7 @@
 ---
 
 [facebook]: https://www.facebook.com/h.dung191003
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangdung1910&theme=tokyonight)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hoangdung1910&show_icons=true&theme=tokyonight)
 
