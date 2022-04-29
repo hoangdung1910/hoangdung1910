@@ -1,5 +1,5 @@
 # Hi there, I'm (づ.｡◕‿‿◕｡)づ - aka [Meow][facebook] 👋 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=F77FD0&center=true&lines=Welcome+to+Meow+profile!+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&color=F77FD0&center=true&lines=Welcome+to+Meow+2k9+profile!+)
 
 <a href="https://twitter.com/hdung191003"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ho%C3%A0ng-d%C5%A9ng-1223b6236/"><img src="https://img.shields.io/badge/linkedin-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
